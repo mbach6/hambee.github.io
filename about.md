@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I'm just a baseball enthusiast looking to justify my math degree.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Absolutely feel free to offer me a job and I'll do the same kind of analysis for you!
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[maxwellhbach@gmail.com](mailto:maxwellhbach@gmail.com)
