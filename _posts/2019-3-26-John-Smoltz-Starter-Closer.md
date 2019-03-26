@@ -1,52 +1,47 @@
 ---
 layout: post
-title: "Forgotten Seasons: Todd Helton (2000)"
+title: "Curiosity Corner: John Smoltz - Super Starter?"
 ---
 
-_Forgotten Seasons is a series dedicated to recognizing the greatness of players who may not have gotten the recognition they deserved in their day. Today, we're looking at Colorado Rockies first baseman Todd Helton's incredible 2000 season._  
+_Curiosity Corner is a series dedicated to thought experiments that speculate what players may have achieved if circumstances were different from reality. Today, we're looking at Hall of Fame pitcher John Smoltz's time as the game's premier closer._  
 
-__Key Stats:__ _8.9 WAR, .372 BA, .463 OBP, .698 SLG, 1.162 OPS, 216 H, 59 2B,_ 42 HR, _147 RBI, 138 R,_ 61 K, 103 BB _(Italics indicate a league leading stat.)_  
+__Career Stats:__ 69.0 WAR, 213 Wins, 155 Losses, 154 Saves, 3.33 ERA, 3473.0 Innings, 3084 K/1010 BB, 1.176 WHIP 
   
   
 {: .center} 
 ![_config.yml]({{ site.baseurl }}/images/todd_helton_2000/todd_helton_5.jpg)
 > The 2000 season marked the first of five consecutive All-Star seasons for Helton. These were also the only All-Star appearances of his 17-year career despite hitting .293/.393/.459 over his final 9 seasons.  
 
-Todd Helton was an absolute machine during the 2000 season. He torched opposing pitchers to the tune of a .383/.479/.701 slash line through the season's first half and followed this up with a cool .362/.446/.695 in the second half. So he was dominating at the plate for the entirety of the year.
+Are you familiar with the stat FIP? It’s Fielding Independent Pitching. It's essentially an ERA estimation that measures how good a pitcher is (or isn’t) in spite of their defense. It’s also measured so that each season the league average FIP is the same as the league average ERA. It can essentially tell you how lucky or unlucky a pitcher is because of his defense. 
 
-So did Todd Helton win the NL MVP? The answer is no. Actually, he didn't even crack the top 3 in terms of voting totals. He finished 5th on the ballot with a single first place vote. This is almost certainly a result of the bias against pre-humidor Coors Field. But it’s worth noting that Helton led the National League in WAR for the season which accounts for ballpark factors, so the additional emphasis on the Coors Effect is misleading.
+The 2018 Atlanta Braves pitchers benefited a ton from great defense. So while Braves starter Mike Foltynewicz had a 2.85 ERA, he had a 3.37 FIP, meaning that he’d be closer to the latter number with a more league-average defense. 
 
-{: .center} 
-![_config.yml]({{ site.baseurl }}/images/todd_helton_2000/todd_helton_2.jpg)
-> Besides 2000, Todd Helton only led the National League in one other offensive category at any other point in his career when he posted a .445 OBP in 2005.
+By contrast, 2018 Boston Red Sox starter Chris Sale had a 2.11 ERA but a 1.98 FIP which suggested he was burnt some by poor defense. (He’s not complaining though; he just won a World Series.)
 
-There is no doubt Helton benefited from playing in Coors. He batted .391/.484/.758 in 81 games there (to go along with 27 HR and 88 RBI. The man basically had an MVP-caliber season just at home.) But in 79 games on the road, he had a robust .353/.441/.633 with 15 HR and 59 RBI. So not only did he win a batting title, but he had the black ink stats and road splits to reinforce his offensive dominance.
+So FIP can basically tell us a story of a pitcher’s ability better than an ERA can. And most times, it evens out over the course of a career due to a regression towards the mean. 
 
-And while this was an offense-oriented league at the time, Helton’s 163 adjusted OPS+ is an indicator that he was in the highest echelon of hitters, trailing only Barry Bonds (188 OPS+) and Gary Sheffield (176 OPS+) in the National League and actually besting NL MVP Jeff Kent’s 162 OPS+.  
-    
-{: .center} 
-![_config.yml]({{ site.baseurl }}/images/todd_helton_2000/todd_helton_3.jpg){: .align-center}
-> Despite only leading the league in OBP in two seasons, Helton's .414 career OBP ranks 27th on the all-time list behind Hall of Famer Jesse Burkett (.415 OBP) and tied with Hall of Famer Mel Ott.
+For example, Max Scherzer’s career ERA is 3.22 and his FIP is 3.19. Justin Verlander’s ERA: 3.39, his FIP: 3.42. It’s pretty consistent.
 
-Not only was Helton a showstopper with the bat, he flashed the leather too with the stellar defense he contributed at first base. By Total Zone Runs, he ranked 1st in the Majors among first basemen with 18 runs above average saved, outpacing the next best in the MLB (Mark Grace) by 6 runs. His 18 TZR actually ranked third across all positions in the NL behind only center fielder Andruw Jones (25 TZR) and catcher Mike Matheny (19 TZR). In fact, at the time, Helton’s 18 TZR tied the best single-season mark ever by a first baseman (which would later be eclipsed by Albert Pujols in 2007 with 27 TZR). 
+But there are a few standouts.
 
-But curiously, Todd Helton did not win the Gold Glove at first base in 2000. Instead, he lost the award to JT Snow, a capable fielder but one who didn’t even crack the top 10 in terms of TZR for the year 2000. However, Helton's lack of denfensive hardware would be rectified as he would win the Gold Glove in 2001 and 2002. So chalk up world-class defense to complement an already ludicrous offensive showing.  
+Tom Glavine had a career 3.54 ERA but a career 3.95 FIP. This is a product of the insane number of homers he gave up and his low strikeout totals. Of course, the Braves accounted for his crafty roundball nature by providing excellent defenders to back him which is why his ERA didn’t balloon more. 
 
 {: .center} 
-![_config.yml]({{ site.baseurl }}/images/todd_helton_2000/todd_helton_6.jpg)
-> For his career, Todd Helton was one of the rare players who walked more than he struck out, having been granted first base 160 more times than he whiffed. He ranks 208th on the all-time strikeout list (1175 K) and 36th on the all-time base-on-balls list (1335 BB). Of the 35 players ahead of Helton on the all-time base-on-balls list at the time of this post, 31 are eligible for the Hall of Fame and 25 of those 31 are already enshrined in Cooperstown.
+![_config.yml]({{ site.baseurl }}/images/.jpg)
+> The 2000 season marked the first of five consecutive All-Star seasons for Helton. These were also the only All-Star appearances of his 17-year career despite hitting .293/.393/.459 over his final 9 seasons.
 
-The only two players in all of baseball who topped Helton in terms of WAR were the utterly transcendent Pedro Martinez (11.7 WAR) whose 2000 season ranks among the very best single-season pitching performances in history and the analytics darling Alex Rodriguez (10.4 WAR) whose legacy is marred by his use of performance enhancing substances. But both Martinez and Rodriguez played in the American League, leaving Helton as the undisputed WAR champion of the National League.
 
-And for curiosity’s sake, NL MVP Jeff Kent posted a 7.2 WAR, good for 5th in the NL behind Helton (8.9 WAR), Andruw Jones (8.2 WAR), Randy Johnson (8.1 WAR), and Barry Bonds (7.7 WAR). The main disparity in the voting results between Kent and Helton? Kent’s San Fransisco Giants went 97-65 on their way to a 1st place finish in the NL West while Helton’s Colorado Rockies went 82-80 while limping their way to a 4th place finish in the NL West.  
+Greg Maddux conversely has a career 3.16 ERA and a 3.36 FIP. He had higher strikeout rates than Glavine and he pitched a ton more innings with fewer walks, which FIP rewards. (Side note: From 1986-2004, Greg Maddux went 305-174 with a 2.95 ERA and a 3.19 FIP. From 2005-2008, he’d follow with a 50-53 record and a 4.20 ERA. But his FIP? 3.88. Less than Tom Glavine’s career FIP.)
 
-{: .center} 
-![_config.yml]({{ site.baseurl }}/images/todd_helton_2000/Todd_Helton_1.jpg)
-> Todd Helton's 106 career Total Zone Runs rank second all-time for first basemen behind only Keith Hernandez (120 TZR) and tied with Albert Pujols. By this metric, Helton could be considered one of the best defensive first basemen ever.
+But the most interesting part of all of this is John Smoltz and his 3.33 career ERA. When you think of John Smoltz, you think dominance. But do you think better than Maddux? At 3.24, John Smoltz career FIP is 0.02 points better than Maddux. This is considering he did have 4 years of bullpen work with 285.1 innings of a 2.47 FIP. But this is coming off a missed season with Tommy John and in the three seasons before that he had an average of 203.1 innings pitched 3.04 ERA and a 2.98 FIP. 
 
-One final note: Helton’s single-season 59 doubles ranks 7th in MLB history and were, and remain, the most by a player since 1936. And before you ask, he hit 28 of those doubles at Coors and the other 31 on the road. 
+Now, far be it for me to say he would have seen this same success if he hadn’t had to undergo Tommy John and remained a started for these 4 years. But if we hypothesize that from his lost season to his return to the rotation in 2005 at age 38 that he did have these averages continue (not a terrible assumption consider he had a 3.04 ERA/2.98 FIP in 229.2 innings in his return-to-rotation season). So let’s say he didn’t get hurt and we extrapolate this pace over 5 years. So we have 5 years at 203.1 innings with a 3.04 ERA and a 2.98 FIP to replace the lost season and bullpen years.
 
-This sensational season for the 2000 NL Batting Champion and Hit King deserved a deeper dive. His is surely one of the most remarkable forgotten seasons in MLB history.  
+That takes away the 285.1 innings of a 2.47 FIP and replaces it with 1016.2 innings of a 3.04 ERA and a 2.98 FIP. Is it enough to offset the benefit of the coming out of the pen? It turns out yes.
+
+If we take John Smoltz career and replace the TJ season and him as a receiver with these aggregated stats from the three seasons prior to his TJ, we have…
+
+4202.2 career innings with a 3.30 ERA and a 3.23 FIP. So starter or not, John Smoltz, by measure of FIP, may have been better than Tom Glavine and Greg Maddux both.
 
 {: .center} 
 ![_config.yml]({{ site.baseurl }}/images/todd_helton_2000/todd_helton_4.jpg)
