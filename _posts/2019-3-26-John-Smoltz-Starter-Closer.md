@@ -9,8 +9,8 @@ __Career Stats:__ 69.0 WAR, 213 Wins, 155 Losses, 154 Saves, 3.33 ERA, 3473.0 In
   
   
 {: .center} 
-![_config.yml]({{ site.baseurl }}/images/todd_helton_2000/todd_helton_5.jpg)
-> The 2000 season marked the first of five consecutive All-Star seasons for Helton. These were also the only All-Star appearances of his 17-year career despite hitting .293/.393/.459 over his final 9 seasons.  
+![_config.yml]({{ site.baseurl }}/images/john-smoltz-starter-closer/john_smoltz_1.jpg)
+> When Tommy John surgery threatened to derail his career, John Smoltz responded by transtioning from one of the League's most dominant to  
 
 Are you familiar with the stat FIP? It’s Fielding Independent Pitching. It's essentially an ERA estimation that measures how good a pitcher is (or isn’t) in spite of their defense. It’s also measured so that each season the league average FIP is the same as the league average ERA. It can essentially tell you how lucky or unlucky a pitcher is because of his defense. 
 
