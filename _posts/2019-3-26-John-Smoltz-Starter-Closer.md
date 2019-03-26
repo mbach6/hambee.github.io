@@ -45,7 +45,7 @@ However, this bullpen period for Smoltz was coming off a missed season of Tommy 
 Now, far be it for me to say he would have seen this same success if he hadn’t had to undergo Tommy John and remained a starter for these 4 years. But if we hypothesize that from his lost season to his return to the rotation in 2005 at age 38 that he _did_ have these averages continue (not a terrible assumption consider he had a 3.04 ERA/2.98 FIP in 229.2 innings in his return-to-rotation season). So let’s say he didn’t get hurt and we extrapolate this pace over 5 years. So we have 5 years at 203.1 innings with a 3.04 ERA and a 2.98 FIP to replace the lost season and bullpen years.
 
 {: .center} 
-![_config.yml]({{ site.baseurl }}/images/john-smoltz-starter-closer/john_smoltz_4.jpg)
+![_config.yml]({{ site.baseurl }}/images/john-smoltz-starter-closer/john_smoltz_3.jpg)
 > John Smoltz was drafted by the Detroit Tigers in the 22nd round (574th overall) in the 1985 MLB Amateur Draft. I wish I could tell you he wore jersey number 574, but it's simply not the case. He actually wore 29 for most of his career. But in a strange twist, he made his debut as number 57, which is 574 truncated at the ten's place.
 
 That takes away the 285.1 innings of a 2.47 FIP and replaces it with 1016.2 innings of a 3.04 ERA and a 2.98 FIP. Is it enough to offset the benefit of the coming out of the pen? It turns out yes.
@@ -57,7 +57,7 @@ If we take John Smoltz career and replace the TJ season and him as a receiver wi
 Maybe we missed out on John Smoltz: 300-game winner. But he does remain the only player in MLB history with 200+ wins and 150+ saves, and that never would have been possible without his need for Tommy John. So, in the end, I think it all worked out for Smoltzy. He is, and always will be, a legend.
 
 {: .center} 
-![_config.yml]({{ site.baseurl }}/images/john-smoltz-starter-closer/john_smoltz_3.jpg)
+![_config.yml]({{ site.baseurl }}/images/john-smoltz-starter-closer/john_smoltz_4.jpg)
 > This piece was inspired by seeing John Smoltz dining out at a restaurant in Roswell, GA. He was gracious, courteous, and friendly with fans, and he was especially kind to a stat rat like me. He is one of the nicest folks you could ever meet, and I hope he'd get a kick out of me saying he's better than his old pals.
 
 ---
