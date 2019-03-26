@@ -54,7 +54,9 @@ If we take John Smoltz career and replace the TJ season and him as a receiver wi
 
 4202.2 career innings with a 3.30 ERA and, more importantly, a 3.23 FIP, better than Greg Maddux's career 3.26 FIP. So starter or not, John Smoltz, by measure of FIP, may have been better than both Tom Glavine and Greg Maddux.
 
-Maybe we missed out on John Smoltz: 300-game winner. But he does remain the only player in MLB history with 200+ wins and 150+ saves, and that never would have been possible without his need for Tommy John. So, in the end, I think it all worked out for Smoltzy. He is, and always will be, a legend.
+Maybe we missed out on John Smoltz: 300-game winner. But he does remain the only player in MLB history with 200+ wins and 150+ saves, and that never would have been possible without his need for Tommy John. 
+
+So, in the end, I think it all worked out for Smoltzy. He is, and always will be, a legend.
 
 {: .center} 
 ![_config.yml]({{ site.baseurl }}/images/john-smoltz-starter-closer/john_smoltz_4.jpg)
