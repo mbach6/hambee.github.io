@@ -8,7 +8,7 @@ I'm just a baseball enthusiast looking to justify my math degree.
 
 ### More Information
 
-Absolutely feel free to offer me a job and I'll perform the same level of analysis for you!
+Feel free to offer me a job and I'll perform the same level of analysis for you!
 
 ### Contact me
 
