@@ -42,15 +42,15 @@ But the most interesting part of all of this is John Smoltz and his 3.33 career 
 
 However, this bullpen period for Smoltz was coming off a missed season of Tommy John recovery, and in the three seasons prior, he had an average of 203.1 innings pitched with a 3.04 ERA and 2.98 FIP. 
 
-Now, far be it for me to say he would have seen this same success if he hadn’t had to undergo Tommy John and remained a starter for these 4 years. But if we hypothesize that from his lost season to his return to the rotation in 2005 at age 38 that he _did_ have these averages continue (not a terrible assumption consider he had a 3.04 ERA/2.98 FIP in 229.2 innings in his return-to-rotation season). So let’s say he didn’t get hurt and we extrapolate this pace over 5 years. So we have 5 years at 203.1 innings with a 3.04 ERA and a 2.98 FIP to replace the lost season and bullpen years.
+Now, far be it for me to say he would have seen this same success if he hadn’t had to undergo Tommy John and remained a starter for these 4 years. But let's hypothesize that from his lost season in 2000 to his return to the rotation in 2005 at age 38 that he _did_ have these averages continue (not a terrible assumption considering he had a 3.06 ERA/3.27 FIP in 229.2 innings in this return-to-rotation season). So let’s say he didn’t get hurt and we extrapolate this pace over 5 years from 2000-2004. So we have 5 years at 203.1 innings with a 3.04 ERA and a 2.98 FIP to replace the lost season and bullpen years.
 
 {: .center} 
 ![_config.yml]({{ site.baseurl }}/images/john-smoltz-starter-closer/john_smoltz_3.jpg)
 > John Smoltz was drafted by the Detroit Tigers in the 22nd round (574th overall) in the 1985 MLB Amateur Draft. I wish I could tell you he wore jersey number 574, but it's simply not the case. He actually wore 29 for most of his career. But in a strange twist, he made his debut as number 57, which is 574 truncated at the ten's place.
 
-That takes away the 285.1 innings of a 2.47 FIP and replaces it with 1016.2 innings of a 3.04 ERA and a 2.98 FIP. Is it enough to offset the benefit of the coming out of the pen? It turns out yes.
+That takes away the 285.1 innings of a 2.47 FIP and replaces it with 1016.2 innings of a 3.04 ERA and a 2.98 FIP. Is it enough to offset the benefit of the coming out of the 'pen? It turns out yes.
 
-If we take John Smoltz career and replace the TJ season and him as a receiver with these aggregated stats from the three seasons prior to his TJ, we have…
+If we take John Smoltz career and replace the TJ season and him as a releiver with these aggregated stats from the three seasons prior to his TJ, we have…
 
 4202.2 career innings with a 3.30 ERA and, more importantly, a 3.23 FIP, better than Greg Maddux's career 3.26 FIP. So starter or not, John Smoltz, by measure of FIP, may have been better than both Tom Glavine and Greg Maddux.
 
